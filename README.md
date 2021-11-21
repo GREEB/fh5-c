@@ -76,6 +76,7 @@ Inkscape 1.1.1
 #### Current Progress picture
 
 21/11
+![Screen Shot 2021-11-21 at 5 53 56 PM](https://user-images.githubusercontent.com/1221769/142771444-29a71126-d28c-4a67-8770-5ba05cb1c0d5.png)
 
 ![Artboard 1](https://user-images.githubusercontent.com/1221769/142762755-3c3aa68a-9f67-4e6e-b374-201e92351fa4.png)
 
