@@ -1,6 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/1221769/142766338-a170a3a3-d685-4668-b518-d25c31055990.png">
 
 # FH5-Cartography
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator%2023.1-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
+
 Create FH5 map into a real map. Also known as a "fantasy map".
 
 <p align="center">
@@ -8,7 +10,7 @@ Create FH5 map into a real map. Also known as a "fantasy map".
 </p>
 
 
-Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustator fixes this)
+Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustrator fixes this)
 
 ### To do
 
@@ -20,17 +22,17 @@ WIP, please consider contributing.
 
 Tracing quality of layers. Most important to have perfect is the road tracing, least important are Polygons for Geography
 
-**Perfectly** (Game verifyed as good as possible)
+**Perfectly** (Game verified as good as possible)
  - Nothing
   
-**Good** (Best we can do from satelity image)
+**Good** (Best we can do from satellite image)
 - Nothing
 
 **Quick** (So we have data to work with quick but usable)
-- Roads
-- Geography
-- Buildings
-- Bridges  
+- Roads (WIP. 99% roads traced, intersections WIP, Bridges WIP)
+- Geography (WIP, Water done, Greens WIP, Others still need to be done)
+- Buildings (very simple for now)
+- Bridges (50% done)
 
 
 ## Goal
@@ -38,7 +40,7 @@ Create SVG of FH5 map and convert it to a valid geoJSON or similar format to use
 
 
 ### SVG TO GEOJSON
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator%2023.1-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 Illustrator - Object - Path - Clean up
 

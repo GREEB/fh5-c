@@ -1,6 +1,6 @@
 bin as in rubbish bin mate 
 # FH5-Cartography
-Make FH5 map into a real map. Done manually..., also known as a "fantasy map", google has not really the answers for this one, after a lot of searching i found this method worked for me, writing down stuff so i dont forget, other ways may be possible.
+Make FH5 map into a real map. Done manually..., also known as a "fantasy map", google has not really the answers for this one, after a lot of searching i found this method worked for me, writing down stuff so i don't forget, other ways may be possible.
 
 #### Current Progress
 20/11
@@ -9,10 +9,10 @@ Make FH5 map into a real map. Done manually..., also known as a "fantasy map", g
 19/11
 ![](https://i.imgur.com/7vDjxjs.png)
 ## Goal
-Create SVG of FH5 map and convert it to a valid geoJson or similar format to use as a basmap in QGIS or similar.
+Create SVG of FH5 map and convert it to a valid geoJSON or similar format to use as a basmap in QGIS or similar.
 
 ### Export SVG
-To export a clean SVG you may need to delete layers you dont need for export.
+To export a clean SVG you may need to delete layers you don't need for export.
 
 #### Prep
 Create new file copy with only needed layers. Name them ([TODO]this may not do anything).
@@ -27,7 +27,7 @@ Save illustator file as svg Save as -> SVG
 ![](https://i.imgur.com/cy7JrfA.png)
 
 ## Clean SVG
-I dont really know why this is needed maybe its not :D
+I don't really know why this is needed maybe its not :D
 Open SVG in Inkscape -> Copy all elements of the svg
 Create new file in Inkscape -> Paste and group all in one group  (ctrl+shift+d opens settings to change project size)
 ![](https://i.imgur.com/Hiai72Z.png)
