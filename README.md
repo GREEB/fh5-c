@@ -4,14 +4,15 @@
 Create FH5 map into a real map. Also known as a "fantasy map".
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/1221769/142766978-ce42d655-7f04-4f54-84ce-b2e0ac88824e.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/1221769/142767089-55b0f990-636d-49e1-83a5-c2cdf99c7e67.png">
 </p>
 
-WIP, please consider contributig.
 
 Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustator fixes this)
 
 ### To do
+
+WIP, please consider contributing.
 
 
 #### Layer Trace lvl
