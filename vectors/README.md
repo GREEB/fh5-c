@@ -1,0 +1,46 @@
+### Illustator File
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator%2023.1-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+Illustator 23.1 - Download vectors folder with linked image.
+
+# Categorizing
+
+Has no real order for now but if someone has experiance in this please redo this.
+
+
+
+## Layers:
+
+1. ### Chunks
+Are Only here to help you while editing the map, to devide work in your brain.
+
+2. ### Original
+The original map for overlay purposes, to trace everything
+
+3. ### Chunk Data
+- Bridges
+- Buildings
+- Roads
+
+The main/important data is here roads, buildings, bridges
+Export these in own layers to catoggorize them later in the geoJSON
+
+4. ### Polygons
+This is the underlaying data for geography types (water, sand, grass, forest)
+
+ 4.1. **Water**
+- Openwater
+- Lakes
+- Rivers
+
+The water data, for now we only have 3 different water types
+
+4.2. **Sand**
+n/a
+
+4.3. **Greens**
+n/a
+
+4.4. **BG**
+
+This is probably not needed for export, just to make it nicer 
