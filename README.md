@@ -1,20 +1,32 @@
+<img align="left" style="margin-top:15px" src="https://user-images.githubusercontent.com/1221769/142766090-e58588fd-7efa-41d4-a978-71266682068d.png">
+
 # FH5-Cartography
-Make FH5 map into a real map. Done manually..., also known as a "fantasy map", google has not really the answers for this one, after a lot of searching i found this method worked for me, writing down stuff so i dont forget, other ways may be possible.
+Create FH5 map into a real map. Also known as a "fantasy map".
 
-#### Current Progress
+Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustator fixes this)
 
-21/11
-
-![Artboard 1](https://user-images.githubusercontent.com/1221769/142762755-3c3aa68a-9f67-4e6e-b374-201e92351fa4.png)
+### To do
 
 
-20/11
-![image](https://user-images.githubusercontent.com/1221769/142715173-7ee2f695-2b71-40aa-972b-56766d50ec63.png)
+#### Layer Trace lvl
 
-19/11
-![](https://i.imgur.com/7vDjxjs.png)
+Tracing quality of layers. Most important to have perfect is the road tracing, least important are Polygons for Geography
+
+**Perfectly** (Game verifyed as good as possible)
+ - Nothing
+  
+**Good** (Best we can do from satelity image)
+- Nothing
+
+**Quick** (So we have data to work with quick but usable)
+- Roads
+- Geography
+- Buildings
+- Bridges  
+
+
 ## Goal
-Create SVG of FH5 map and convert it to a valid geoJson or similar format to use as a basmap in QGIS or similar.
+Create SVG of FH5 map and convert it to a valid geoJSON or similar format to use as a basmap in QGIS or similar.
 
 
 ### SVG TO GEOJSON
@@ -49,6 +61,19 @@ JOSM 18303
 
 Inkscape 1.1.1
 
-https://github.com/mapbox/svg-to-geojson
+[svgtogeojson](https://github.com/mapbox/svg-to-geojson)
 
-https://www.npmjs.com/package/svg2geojson
+[svg2geojson](https://www.npmjs.com/package/svg2geojson)
+
+#### Current Progress picture
+
+21/11
+
+![Artboard 1](https://user-images.githubusercontent.com/1221769/142762755-3c3aa68a-9f67-4e6e-b374-201e92351fa4.png)
+
+
+20/11
+![image](https://user-images.githubusercontent.com/1221769/142715173-7ee2f695-2b71-40aa-972b-56766d50ec63.png)
+
+19/11
+![](https://i.imgur.com/7vDjxjs.png)

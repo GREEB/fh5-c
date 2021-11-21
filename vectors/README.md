@@ -8,7 +8,7 @@ Illustator 23.1 - Download vectors folder with linked image.
 ![Screen Shot 2021-11-21 at 1 52 22 PM](https://user-images.githubusercontent.com/1221769/142762596-fcaace30-cde8-4b9b-beea-0f278e523081.png)
 
 
-Has no real order for now but if someone has experiance in this please redo this.
+Has no real order for now but if someone has experience in this please redo this.
 
 
 
