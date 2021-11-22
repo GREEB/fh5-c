@@ -1,0 +1,12 @@
+{
+  "name": "svg2json",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Watch folder and add geometa tag automatically",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "chokidar": "^3.5.2"
+  }
+}
