@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/1221769/142766338-a170a3a3-d685-4668-b518-d25c31055990.png">
+<img align="left" src="https://user-images.githubusercontent.com/1221769/143173426-6e8c6726-1496-4a76-9a20-8628dabfb455.png">
 
 # FH5-Cartography
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator%2023.1-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
