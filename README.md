@@ -10,7 +10,7 @@ Create FH5 map into a real map. Also known as a "fantasy map".
 </p>
 
 
-Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustrator fixes this)
+Use this as a sample project if you wanna create your won fantasy map, most important thing for converting a SVG to geoJSON is to have a clean SVG no points that start and end at the same point. (Clean up... in Illustrator fixes this), no curves make sure you add anchors and then simplify again.
 
 ### To do
 
@@ -90,3 +90,12 @@ Inkscape 1.1.1
 
 19/11
 ![](https://i.imgur.com/7vDjxjs.png)
+
+
+### Notes
+Things you cant have in your svg is lines with less than 2 vertices
+
+You can clean up the singlepoints in Illustrator with Clean up...
+
+To add vertices later to lines so you can still draw lines with 2 vertices.
+ QGIS -> vector -> geometry tools -> densify 

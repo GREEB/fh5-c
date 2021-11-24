@@ -1,0 +1,7 @@
+
+<MetaInfo xmlns="http://www.prognoz.ru">
+	<Geo>
+		<GeoItem X="0" Y="0" Longitude="1" Latitude="1" />
+		<GeoItem X="0" Y="2148" Longitude="2.148" Latitude="1.436" />
+	</Geo>
+</MetaInfo>
