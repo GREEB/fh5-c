@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/1221769/143173486-fc2f2cd2-d9cc-416f-8066-8dc707ada3b8.png">
+<img align="left" src="https://user-images.githubusercontent.com/1221769/142766338-a170a3a3-d685-4668-b518-d25c31055990.png">
 
 # FH5-Cartography
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator%2023.1-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -6,7 +6,7 @@
 Create FH5 map into a real map. Also known as a "fantasy map".
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/1221769/142767232-b9d5a1d3-d554-4961-a097-1ebd2f5d01d9.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/1221769/143173486-fc2f2cd2-d9cc-416f-8066-8dc707ada3b8.png">
 </p>
 
 
